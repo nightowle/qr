@@ -1,0 +1,10 @@
+frontmatter/title.tex
+abstract.tex
+intro.tex
+theory/background.tex
+methods/model.tex
+results/main.tex
+discussion/main.tex
+conclusion/main.tex
+bibliography.tex
+appendix/A.tex
