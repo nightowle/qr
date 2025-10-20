@@ -1,16 +1,15 @@
 # QR Manager
 
-This repository provides the management scripts and environment configuration for NightOwle's QR Theory projects. It serves as the companion to the new [`qr_v8.00`](https://github.com/nightowle/qr_v8.00) repository, which contains the completely overhauled Quantum Relativity (QR) theory version 8.00.
+This repository provides the management scripts and environment configuration for NightOwle's QR Theory projects. It serves as the companion to the new repository, which contains the completely overhauled Quantum Relativity (QR) theory version 11.00.
 
 ## Purpose
 
 The manager repository helps to build, test and publish the LaTeX documents and associated assets for QR theory. It includes configuration files for continuous integration, build scripts, and guidelines for contributing.
 
 ## Getting Started
-
-1. Clone this repository and the [`qr_v8.00`](https://github.com/nightowle/qr_v8.00) theory repository.
+1. consolidate all information to a new synthesed version
 2. Ensure that you have a recent LaTeX distribution installed, as well as any required Python dependencies.
-3. Run the build script in `qr_v8.00` (e.g., `./make.sh`) to compile the theory documents.
+3. develop and Run a build script in to compile the theory documents.
 
 ## Related Repositories
 
